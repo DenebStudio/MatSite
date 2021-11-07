@@ -28,7 +28,7 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
@@ -37,7 +37,7 @@ params:
     comments: false
     hidemeta: false
     hideSummary: false
-    showtoc: false
+    showtoc: true
     tocopen: false
 
     assets:
@@ -64,10 +64,12 @@ params:
         imageHeight: 150
         imageTitle: my image
         buttons:
-            - name: Posts
-              url: categories
-            - name: Tags
-              url: tags
+            # - name: CV
+            #  url: /CV/
+            # - name: About me
+            #  url: about
+
+            
 
     # home-info mode
     # homeInfoParams:
@@ -79,12 +81,15 @@ params:
 
         - name: linkedin
           url: "https://www.linkedin.com/in/matteoalparone/"
-        - name: facebook
-          url: "https://stackoverflow.com"
+        - name: instagram
+          url: "https://www.instagram.com/mat_alp/"
         - name: telegram
-          url: "https://twitter.com/"
-        - name: mail
-          url: "https://twitter.com/"
+          url: "https://t.me/Mattbss"
+        - name: facebook
+          url: "https://www.facebook.com/matteo.alparone"
+        - name: paypal
+          url: "https://paypal.me/matteoalparone"
+
           
     analytics:
         google:
@@ -116,13 +121,17 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: CV
+          name: CV
+          url: /CV/
+          weight: 10
+        - identifier: posts
+          name: Posts
+          url: /posts/
           weight: 10
         - identifier: tags
-          name: tags
-          url: /tags/
+          name: About me
+          url: /about/
           weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
