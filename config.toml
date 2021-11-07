@@ -1,4 +1,4 @@
-baseURL = "http://denebstudio.github.io/MatSite/"
+baseURL = "https://denebstudio.github.io/MatSite/"
 languageCode = "en-us"
 publishDir = "public"
 title = "MatAlp"
