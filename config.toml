@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://denebstudio.github.io/MatSite/"
 languageCode = "en-us"
 publishDir = "public"
-title = "MatAlp"
+title = "MatAl"
 theme = "aether"
