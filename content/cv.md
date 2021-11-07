@@ -1,6 +1,15 @@
 ---
 title: "CV"
 # url: "/CV"
+showtoc: true
+hidemeta: true
+description: ""
+author: ""
+cover:
+    image: "io.jpg"
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Physicist, Mathematician, Cambridge professor.
