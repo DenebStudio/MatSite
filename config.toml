@@ -1,5 +1,5 @@
 baseURL = "https://denebstudio.github.io/MatSite/"
 languageCode = "en-us"
 publishDir = "public"
-title = "MatAlp"
-theme = "aether"
+title = "MatAlpa"
+theme = "coder"
