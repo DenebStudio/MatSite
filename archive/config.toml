@@ -1,0 +1,22 @@
+baseURL = "https://denebstudio.github.io/MatSite/"
+languageCode = "en-us"
+publishDir = "public"
+title = "MatAlp"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "auto"
+
+disableThemeToggle = false
+
+[params.profileMode]
+enabled = true
+title = "<Title>"
+subtitle = "Welcome home"
+imageUrl = "mat.png"
+imageTitle = "mat"
+imageWidth = 120
+imageHeight = 120
+
+
+
