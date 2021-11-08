@@ -12,8 +12,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-Physicist, Mathematician, Cambridge professor.
-
+Remote Sensing Specialist
 
 
 ## Currently
