@@ -27,19 +27,19 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Nov 2017- Sept 2021`
+__Ph.D. in Remote Sensing__
+_Università degli Studi di Napoli Parthenope_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-Università Sapienza
+`Oct 2013 - Nov 2016`
+__M.sc in Astrophysics__
+_Università degli Studi di Roma Sapienza_
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Oct 2007 - Feb 2013`
+__B.sc in Physics & Astrophysics__
+_Università degli Studi di Roma Sapienza_
 
-- Fellow
 
 
 
