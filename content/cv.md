@@ -22,19 +22,22 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`Nov 2017- Sept 2021`
+`Nov 2017 - Sept 2021`
 __Ph.D. in Remote Sensing__
-_Università degli Studi di Napoli Parthenope_
+_Università degli Studi di Napoli Parthenope, Naples, Italy_
 
 `Oct 2013 - Nov 2016`
 __M.sc in Astrophysics__
-_Università degli Studi di Roma Sapienza_
+_Università degli Studi di Roma Sapienza, Rome, Italy_
 
 
 `Oct 2007 - Feb 2013`
 __B.sc in Physics & Astrophysics__
-_Università degli Studi di Roma Sapienza_
+_Università degli Studi di Roma Sapienza, Rome, Italy_
 
+`Sep 2002 - Jul 2007`
+__High School Diploma in Classical Studies__
+_Istituto E.Q. Visconti, Rome, Italy_
 
 
 
