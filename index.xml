@@ -5,8 +5,8 @@
     <link>https://denebstudio.github.io/MatSite/</link>
     <description>Recent content on MatAlp</description>
     <image>
-      <url>https://denebstudio.github.io/MatSite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://denebstudio.github.io/MatSite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://denebstudio.github.io/img</url>
+      <link>https://denebstudio.github.io/img</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 07 Nov 2021 20:25:21 +0100</lastBuildDate><atom:link href="https://denebstudio.github.io/MatSite/index.xml" rel="self" type="application/rss+xml" />
@@ -25,7 +25,7 @@
       <pubDate>Sun, 07 Nov 2021 20:19:06 +0100</pubDate>
       
       <guid>https://denebstudio.github.io/MatSite/posts/first-blog/</guid>
-      <description>Ciao sono matteo_</description>
+      <description>Ciao sono matteo_ e sono pure scemo </description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://denebstudio.github.io/MatSite/cv/</guid>
-      <description>Physicist, Mathematician, Cambridge professor.
+      <description>Remote Sensing Specialist
 Currently Standing on the shoulders of giants
 Research interests Cooling, power series, optics, alchemy, planetary motions, apples.
 Education 1654-1660 The King&amp;rsquo;s School, Grantham.
