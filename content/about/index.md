@@ -3,6 +3,7 @@ title: "About"
 layout: "about"
 # url: "/about"
 summary: "about"
+hidemeta: true
 ---
 
 🔭 I have 5 years of experience in satellite Remote Sensing. My current research interests are focused on spatial resolution enhancement of spaceborne microwave radiometers products and sea-wind retrieval. 
