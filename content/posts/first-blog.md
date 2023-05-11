@@ -10,5 +10,5 @@ author: ""
 
 
 Ciao sono __matteo___ 
-e sono pure scemo
+
 ![some image](/MatSite/images/aa.jpg)
